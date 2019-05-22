@@ -1,0 +1,6 @@
+*.class
+#package ignore
+*.war
+*.ear
+#maven ignore
+target/
